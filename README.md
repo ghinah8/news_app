@@ -21,7 +21,7 @@ A Flutter mobile application developed during a training program at Focal-X comp
 - Implemented add category for users functionality  
 
 ### Frontend Development:
-- Built the Home screen UI based on Figma designs  
+- Built the Home & bookmarks & newspage screens UI based on Figma designs  
 - Ensured smooth integration between UI and API data  
 - Collaborated with the team to deliver a consistent and functional app  
 
